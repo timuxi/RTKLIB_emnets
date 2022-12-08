@@ -10,8 +10,8 @@
 > ./rtkrcv -o ../conf/rtkconf.conf -s
 
 如果出现start success，则表示启动成功。此时可以输入下面命令，来看当前的运行状态。
->status 查看运行状态
->solution 定位结果
->error 如果定位失败，会在里面打印相应的错误日志。可以按control+c退出当前状态。
->stop 停止rtk运行
+>status 查看运行状态</br>
+>solution 定位结果</br>
+>error 如果定位失败，会在里面打印相应的错误日志。可以按control+c退出当前状态。</br>
+>stop 停止rtk运行</br>
 >shutdown 退出当前的命令行状态
